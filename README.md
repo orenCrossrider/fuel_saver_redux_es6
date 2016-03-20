@@ -1,3 +1,2 @@
-# CNP UI!
+# Demo app for React + Redux + ES6 (originated from react-slingshot)!
 
-When we know what CNP does, we'll write it down.
